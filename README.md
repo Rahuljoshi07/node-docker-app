@@ -53,7 +53,6 @@ node-docker-app/
 ├── package.json
 └── README.md
 
-
 ## 📚 Learnings
 
 - How Docker handles different runtimes
