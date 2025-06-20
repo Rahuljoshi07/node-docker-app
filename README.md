@@ -1,4 +1,3 @@
-cat > README.md <<EOF
 # 🚀 Node.js App in Docker
 
 This is a simple, lightweight Node.js web server running inside a Docker container. Built as part of my #100DaysOfDevOps challenge.
@@ -42,13 +41,12 @@ Then visit [http://localhost:3000](http://localhost:3000)
 
 
 ## 📁 Project Structure
-\`\`\`
+
 node-docker-app/
 ├── Dockerfile
 ├── index.js
 ├── package.json
 └── README.md
-\`\`\`
 
 
 ## 📚 Learnings
