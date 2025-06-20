@@ -30,6 +30,7 @@ Then visit [http://localhost:3000](http://localhost:3000)
 
 ![image](https://github.com/user-attachments/assets/4f6010b0-de55-4511-8c03-abd40dfeb89e)
 
+\`\`\`
 ==============================
 🚀 Node.js App Running in Docker
 📦 Environment: Development
