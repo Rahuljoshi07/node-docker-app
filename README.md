@@ -48,7 +48,11 @@ Then visit [http://localhost:3000](http://localhost:3000)
 
 ## 📁 Project Structure
 
-
+node-docker-app/
+├── Dockerfile
+├── index.js
+├── package.json
+└── README.md
 
 ## 📚 Learnings
 
